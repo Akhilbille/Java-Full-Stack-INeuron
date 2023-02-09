@@ -1,6 +1,6 @@
 class Program4 {
     public static void main(String[] args){
-        int n = 14;
+        int n = 18;
         for(int i = 0; i<n;i++){
             for(int j=0;j<n;j++){
 
